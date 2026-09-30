@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1d1d1f&height=240&section=header&text=Lorenzo%20Donfrancesco&fontColor=f5f5f7&fontSize=52&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Sapienza%20University%20of%20Rome&descAlignY=64&descSize=16&descColor=86868b">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:f5f5f7,100:e8e8ed&height=240&section=header&text=Lorenzo%20Donfrancesco&fontColor=1d1d1f&fontSize=52&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Sapienza%20University%20of%20Rome&descAlignY=64&descSize=16&descColor=6e6e73">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1d1d1f&height=240&section=header&text=Lorenzo%20Donfrancesco&fontColor=f5f5f7&fontSize=52&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Sapienza%20University%20of%20Rome&descAlignY=64&descSize=16&descColor=86868b" width="100%" alt="Lorenzo Donfrancesco" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1d1d1f&height=240&section=header&text=Lorenzo%20Donfrancesco&fontColor=f5f5f7&fontSize=52&fontAlignY=42&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Sapienza%20University%20of%20Rome&descAlignY=64&descSize=16&descColor=86868b" width="100%" alt="Lorenzo Donfrancesco" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1200&color=86868B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Always+learning.+Always+building.;Curious+about+how+things+work+under+the+hood" alt="Typing animation" />
@@ -30,21 +26,13 @@ Currently working on **macOS**, with a background in **Linux**.
 
 <sub>LANGUAGES</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,python,c&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,python,c&theme=light">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c&theme=dark" alt="languages" />
-</picture>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c&theme=dark" alt="languages" />
 
 <br><br>
 
 <sub>TOOLS &amp; ENVIRONMENT</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,apple,bash&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,apple,bash&theme=light">
-  <img src="https://skillicons.dev/icons?i=git,github,apple,bash&theme=dark" alt="tools" />
-</picture>
+<img src="https://skillicons.dev/icons?i=git,github,apple,bash&theme=dark" alt="tools" />
 
 </div>
 
@@ -120,41 +108,13 @@ Sapienza University of Rome · Rome, Italy · 2026 – 2029
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lorenzodonfrancesco/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=f5f5f7">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-e8e8ed?style=for-the-badge&logo=linkedin&logoColor=1d1d1f">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=f5f5f7">
-  </picture>
-</a>
-<a href="mailto:lorenzo.donfrancesco07@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=f5f5f7">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-e8e8ed?style=for-the-badge&logo=gmail&logoColor=1d1d1f">
-    <img alt="Email" src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=f5f5f7">
-  </picture>
-</a>
-<a href="https://www.instagram.com/lorenzo.donfrancesco/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Instagram-1d1d1f?style=for-the-badge&logo=instagram&logoColor=f5f5f7">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-e8e8ed?style=for-the-badge&logo=instagram&logoColor=1d1d1f">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1d1d1f?style=for-the-badge&logo=instagram&logoColor=f5f5f7">
-  </picture>
-</a>
-<a href="https://x.com/Lore1677_">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-1d1d1f?style=for-the-badge&logo=x&logoColor=f5f5f7">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/X-e8e8ed?style=for-the-badge&logo=x&logoColor=1d1d1f">
-    <img alt="X" src="https://img.shields.io/badge/X-1d1d1f?style=for-the-badge&logo=x&logoColor=f5f5f7">
-  </picture>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d1d1f?style=for-the-badge&logo=linkedin&logoColor=f5f5f7)](https://www.linkedin.com/in/lorenzodonfrancesco/)
+[![Email](https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=f5f5f7)](mailto:lorenzo.donfrancesco07@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1d1d1f?style=for-the-badge&logo=instagram&logoColor=f5f5f7)](https://www.instagram.com/lorenzo.donfrancesco/)
+[![X](https://img.shields.io/badge/X-1d1d1f?style=for-the-badge&logo=x&logoColor=f5f5f7)](https://x.com/Lore1677_)
 
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1d1d1f,100:000000&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8ed,100:f5f5f7&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1d1f,100:000000&height=100&section=footer" width="100%" alt="footer" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1d1f,100:000000&height=100&section=footer" width="100%" alt="footer" />
